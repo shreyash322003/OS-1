@@ -1,3 +1,15 @@
+/*
+P AT BT
+4 0 3 
+2 2 6
+3 4 4 
+0 6 5 
+1 8 2
+
+
+
+*/
+
 // Round Robin Preemptive CPU Scheduling algorithm
 #include <stdio.h>
 // structure to store each process information
